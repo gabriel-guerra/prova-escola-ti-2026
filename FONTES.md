@@ -16,7 +16,8 @@
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
 | --- | --- | --- | --- |
-| — | | | |
+| 1 | https://mvnrepository.com/artifact/jakarta.persistence/jakarta.persistence-api/3.2.0 | Jakarta API Maven | pom.xml |
+| 2 | https://mvnrepository.com/artifact/org.postgresql/postgresql | Conferência versão postgresql | pom.xml
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
