@@ -1,4 +1,4 @@
-package java.com.escoladeti.produtos;
+package com.escoladeti.produtos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

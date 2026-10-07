@@ -1,4 +1,4 @@
-package java.com.escoladeti.produtos;
+package com.escoladeti.produtos;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
