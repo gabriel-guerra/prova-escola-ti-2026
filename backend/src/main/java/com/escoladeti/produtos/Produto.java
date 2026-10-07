@@ -1,4 +1,4 @@
-package com.escoladeti.produtos;
+package java.com.escoladeti.produtos;
 
 import jakarta.persistense.Entity;
 import jakarta.persistence.GeneratedValue;
